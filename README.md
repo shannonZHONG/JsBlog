@@ -8,3 +8,4 @@
 [array](https://github.com/shannonZHONG/TheNoteBookOfJavaScriptIntermediate/blob/master/%E7%9F%A5%E8%AF%86%E7%82%B9%20%E6%95%B0%E7%BB%84.js )<br>
 [继承 inheritance ](https://github.com/shannonZHONG/TheNoteBookOfJavaScriptIntermediate/blob/master/%E7%9F%A5%E8%AF%86%E7%82%B9%20%E7%BB%A7%E6%89%BF.js)<br>
 [Es6 备忘录](https://github.com/shannonZHONG/jsInterview/blob/master/7788es6.md)<br>
+[Ajax 备忘录](https://github.com/shannonZHONG/jsInterview/blob/master/Ajax.md )
